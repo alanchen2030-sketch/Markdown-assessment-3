@@ -1,0 +1,94 @@
+# Command Line Cheat Sheet # 
+
+## List of Codes 💻 ##
+
+```
+- pwd
+- ls
+- cd<folder>
+- cd ..
+- mkdir
+- touch<file>
+
+```
+
+---
+
+`pwd` is the command to show you **which folder or directory you are in**
+
+Ex:
+`pwd`
+Output: /home
+
+---
+
+`ls` is the command to *list all folders in a directory*
+
+Ex:
+ls
+Output: folder67 file101.md file101.txt
+
+---
+
+`cd<folder>` is the command to *to change directory*
+
+Ex: cd folder 1
+
+---
+
+`cd ..` is the command to **back out of a directory**
+
+Ex:
+1. Folder 1
+2. `cd ..`
+3. main
+
+---
+
+`mkdir` is the command to *create a folder*
+
+`mkdir `folder 101 
+
+---
+
+`touch` is the command to **create a file**
+
+touch brawlstars.txt
+
+---
+
+## Coding In Real Life ##
+![Coding](https://woz-u.com/wp-content/uploads/2022/06/Evolution-of-Coding-scaled.jpg)
+
+
+
+Practice Coding in [KillerCoda](https://killercoda.com/)
+
+> / is a folder, .txt, .md is a file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
